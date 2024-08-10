@@ -1,9 +1,9 @@
 name = 'Saifuddin'
 print(name)
-age = int(34)
+age = 34
 print(age)
-new_age = int(5)
+new_age = 5
 age = (new_age + age)
 print(age)
-is_student = 'true'
+is_student = True
 print(is_student)
